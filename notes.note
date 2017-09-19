@@ -1,1 +1,4 @@
-In this structure, we'll use the APP folder for development purposes, while the DIST (as in "distribution") folder is used to contain optimized files for the production site.
+- APP folder for development purposes, while the
+- DIST (as in "distribution") folder is used to contain optimized files for the production site
+- gulp.src tells the Gulp task what files to use for the task
+- gulp.dest tells Gulp where to output the files once the task is completed.
